@@ -10,6 +10,6 @@
 !.gitignore
 !.gitconfig
 
-!.vim
+!.vim/
 !.vimrc
 
