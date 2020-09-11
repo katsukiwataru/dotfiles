@@ -3,6 +3,7 @@
 
 !bin/
 
+!.zshenv
 !.zshrc
 
 !.config/
