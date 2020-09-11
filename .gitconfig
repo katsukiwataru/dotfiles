@@ -1,0 +1,8 @@
+[core]
+	excludesfile = /Users/katsukiwataru/.gitignore_global
+	editor = vim -c \"set fenc=utf-8\"
+[user]
+	name = Wataru Katsuki
+	email = a17dc050@dhw.ac.jp
+[push]
+	default = simple
