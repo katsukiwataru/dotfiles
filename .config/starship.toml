@@ -19,4 +19,4 @@ prefix = ""
 
 [nodejs]
 symbol = "⬢  node "
-style = "#43853d"
+style = "bold #43853d"
