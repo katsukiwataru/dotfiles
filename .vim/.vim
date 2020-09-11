@@ -1,0 +1,1 @@
+/Users/katsukiwataru/workspace/dotfiles/.vim
