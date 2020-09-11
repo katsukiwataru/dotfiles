@@ -9,7 +9,7 @@
 !.zshrc
 
 !/.config
-!/.config/*
+!/.config/**
 
 !.gitignore
 !.gitconfig
