@@ -6,7 +6,7 @@
 !.zshenv
 !.zshrc
 
-!.config/
+!.config/*
 
 !.anyenv/
 
