@@ -14,5 +14,6 @@
 !.gitignore
 !.gitconfig
 
-!.vim
+!.vim/
+!.vim/**
 !.vimrc
