@@ -3,7 +3,7 @@
 ## setup
 
 - `git clone git@github.com:katsukiwataru/dotfiles.git ~/workspace/dotfiles`
-- `cd dotfiles`
+- `cd workspace/dotfiles`
 - `./bin/dotfilesLink.sh`
 
 ### use
