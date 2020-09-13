@@ -3,7 +3,8 @@
 
 !README.md
 
-!bin/*
+!bin
+!bin/**
 
 !.zshenv
 !.zshrc
