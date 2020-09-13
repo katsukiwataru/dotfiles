@@ -3,7 +3,7 @@
 
 !README.md
 
-!bin/
+!bin/*
 
 !.zshenv
 !.zshrc
@@ -13,7 +13,11 @@
 
 !.gitignore
 !.gitconfig
+!.gitmodules
 
 !.vim/
 !.vim/**
 !.vimrc
+
+!.anyenv
+!.anyenv/**
