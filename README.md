@@ -9,6 +9,7 @@
     1. `git submodule update --init --recursive`
     1. `git submodule update --remote`
 1. `./bin/init.sh`
+1. `:PlugInstall`
 
 ### use
 - [starship](https://github.com/starship/starship)
