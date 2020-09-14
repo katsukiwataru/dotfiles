@@ -43,6 +43,7 @@ Plug 'mattn/emmet-vim'
 Plug 'pangloss/vim-javascript'
 Plug 'gabrielelana/vim-markdown'
 Plug 'previm/previm'
+Plug 'jiangmiao/auto-pairs'
 
 call plug#end()
 
