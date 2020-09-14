@@ -8,7 +8,7 @@
     1. `git submodule foreach git pull`
     1. `git submodule update --init --recursive`
     1. `git submodule update --remote`
-1. `./bin/dotfilesLink.sh`
+1. `./bin/init.sh`
 
 ### use
 - [starship](https://github.com/starship/starship)
