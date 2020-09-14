@@ -22,3 +22,6 @@
 
 !.anyenv
 !.anyenv/**
+
+!emmet-vim
+!emmet-vim/**
