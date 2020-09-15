@@ -40,12 +40,27 @@ call plug#begin('~/.vim/plugged')
 
 Plug 'itchyny/lightline.vim'
 Plug 'mattn/emmet-vim'
-Plug 'pangloss/vim-javascript'
 Plug 'gabrielelana/vim-markdown'
 Plug 'previm/previm'
 Plug 'jiangmiao/auto-pairs'
+Plug 'pangloss/vim-javascript'
+Plug 'peitalin/vim-jsx-typescript'
+Plug 'leafgarland/typescript-vim'
+Plug 'mxw/vim-jsx'
+Plug 'morhetz/gruvbox'
+Plug 'joshdick/onedark.vim'
+Plug 'sheerun/vim-polyglot'
 
 call plug#end()
+
+syntax on
+colorscheme gruvbox
+let g:lightline = {
+  \ 'colorscheme': 'onedark',
+  \ }
+let g:airline_theme='onedark'
+let g:jsx_ext_required = 1
+let g:jsx_pragma_required = 1
 
 let g:previm_open_cmd = 'open -a "Google Chrome"'
 let g:vim_markdown_conceal = 0
