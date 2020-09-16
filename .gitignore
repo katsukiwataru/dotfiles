@@ -10,7 +10,8 @@
 !.zshrc
 
 !/.config
-!/.config/**
+!/.config/anyenv
+**/node_modules
 
 !.gitignore
 !.gitconfig
