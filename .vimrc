@@ -60,5 +60,7 @@ set background=dark
 let g:jsx_ext_required = 1
 let g:jsx_pragma_required = 1
 
+command! -nargs=0 Prettier :CocCommand prettier.formatFile
+
 let g:previm_open_cmd = 'open -a "Google Chrome"'
 let g:vim_markdown_conceal = 0
