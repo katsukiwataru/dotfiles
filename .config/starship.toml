@@ -15,7 +15,7 @@ truncation_symbol = ""
 disabled = true
 
 [cmd_duration]
-prefix = ""
+format = ""
 
 [nodejs]
 symbol = "⬢  node "
