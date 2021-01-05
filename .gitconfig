@@ -6,3 +6,5 @@
 	email = a17dc050@dhw.ac.jp
 [push]
 	default = simple
+[fetch]
+	prune = true
